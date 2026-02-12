@@ -34,7 +34,8 @@
         "toLat": 30.06,
         "toLng": 31.26,
         "influence": "commerce",
-        "toLabel": "Cairo"
+        "toLabel": "Cairo",
+        "curve": null
       }
     ]
   },
@@ -72,7 +73,8 @@
         "toLat": 30.06,
         "toLng": 31.26,
         "influence": "commerce",
-        "toLabel": "Middle East"
+        "toLabel": "Middle East",
+        "curve": null
       }
     ]
   },
@@ -173,7 +175,8 @@
         "toLng": 12.3155,
         "influence": "conquest",
         "toLabel": "Venice",
-        "periods": [3]
+        "periods": [3],
+        "curve": null
       }
     ]
   },
