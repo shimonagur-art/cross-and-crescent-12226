@@ -63,7 +63,6 @@
         "obj_003",
         "obj_007",
         "obj_008",
-        "obj_009",
         "obj_010",
         "obj_011",
         "obj_014"
@@ -82,7 +81,6 @@
       "yearStart": 1270,
       "yearEnd": 1350,
       "objects": [
-        "obj_009",
         "obj_012",
         "obj_013"
       ]
