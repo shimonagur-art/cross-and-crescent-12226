@@ -524,13 +524,8 @@
       ]
     },
     "locations": [
-      {
-        "label": "Cairo",
-        "lat": 25.6872,
-        "lng": 32.6396
-      },
-      {
-        "label": "Damascus",
+          {
+        "label": "Middle East (Most likely Syria or Egypt)",
         "lat": 36.2021,
         "lng": 37.1343
       }
