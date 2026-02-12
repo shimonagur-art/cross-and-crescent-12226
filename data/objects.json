@@ -424,26 +424,9 @@
         "lat": 33.5138,
         "lng": 37.6000
       }
-    ],
-    "routes": [
-      {
-        "toLat": 41.9028,
-        "toLng": 12.4964,
-        "influence": "conquest",
-        "toLabel": "Rome"
-      },
-      {
-        "toLat": 30.0,
-        "toLng": 36.0,
-        "influence": "Culture",
-        "toLabel": "Aman",
-        "curve": { "strength": 0.10, "min": 15, "side": -1 }
-
-
-
-      }
     ]
-  },
+    
+    },
   {
     "id": "obj_012",
     "title": "Astrolabe",
